@@ -6,8 +6,8 @@
 
 ---
 
-### 😎 About me
-Hello! I'm Puriya, a passionate developer with a love for creating amazing things with code. I specialize in **back-end programming**
+###  About me =)
+Hello! I'm Pouria, a passionate developer with a love for creating amazing things with code. I specialize in **back-end programming**
 
 - 🌱 New things in **React**, **Node.js**, and **Kubernetes**
 - 💡 Interesting: I love playing **chess**!
