@@ -23,8 +23,6 @@ Hello! I'm Pouria, a passionate developer with a love for creating amazing thing
 ---
 [![](https://visitcount.itsvg.in/api?id=isPoori&icon=2&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/isPoori) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
