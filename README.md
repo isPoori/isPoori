@@ -5,7 +5,7 @@
 
 ---
 # 💫 About Me:
-Hello! I'm Pouria, a passionate developer with a love for creating amazing things with code. I specialize in back-end programming<br><br>    🌱 New things in React, Node.js, and Kubernetes<br>    💡 Interesting: I love playing chess!
+Hi! I'm Pouria, a full-stack developer with experience in diverse areas. I'm passionate about learning and discovering creative solutions to complex problems, always striving for growth and improvement in my professional journey.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isPoori) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/isPoori) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@OmgaDeveloper) 
