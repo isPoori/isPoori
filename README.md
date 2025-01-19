@@ -19,7 +19,7 @@ Hello! I'm Pouria, a passionate developer with a love for creating amazing thing
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isPoori&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=isPoori&icon=2&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ispoori&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
