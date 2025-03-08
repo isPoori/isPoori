@@ -1,1 +1,2 @@
-Hi! I'm Pouria, a full-stack developer with experience in diverse areas. I'm passionate about learning and discovering creative solutions to complex problems, always striving for growth and improvement in my professional journey.
+> **"Code is like humor. When you have to explain it, it’s bad."**  
+> — *Cory House*
